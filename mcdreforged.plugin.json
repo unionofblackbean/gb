@@ -1,0 +1,11 @@
+{
+    "id": "gb",
+    "version": "0.0.0",
+    "name": "Git Backup",
+    "description": "MCDR Git Backup Plugin",
+    "author": "Leung Yau Ming <leungyauming2005@gmail.com>",
+    "link": "https://github.com/unionofblackbean/gb",
+    "dependencies": {
+        "mcdreforged": ">=2.3.1"
+    }
+}
